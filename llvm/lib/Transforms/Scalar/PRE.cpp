@@ -649,7 +649,7 @@ for (inst_iterator instItr = inst_begin(&F), E = inst_end(&F); instItr != E; ++i
   return Changed;
 }
 
-int PgoPre::Benefit(Value* val, const BasicBlock* n)
+int PRE::Benefit(Value* val, const BasicBlock* n)
 {
   int benefit = 0; 
 
@@ -669,7 +669,7 @@ int PgoPre::Benefit(Value* val, const BasicBlock* n)
   return benefit;
 }
 
-int PgoPre::Cost(Value* val, const BasicBlock* n)
+int PRE::Cost(Value* val, const BasicBlock* n)
 {
   int cost = 0;
 
@@ -694,17 +694,17 @@ int PgoPre::Cost(Value* val, const BasicBlock* n)
   return cost;
 }
 
-double PgoPre::ProbCost(Value* val, const BasicBlock* n)
+double PRE::ProbCost(Value* val, const BasicBlock* n)
 {
   return (double)Cost(val, n) / (double)BlockFreqMap[n];
 }
 
-double PgoPre::ProbBenefit(Value* val, const BasicBlock* n)
+double PRE::ProbBenefit(Value* val, const BasicBlock* n)
 {
   return (double)Benefit(val, n) / (double)BlockFreqMap[n];
 }
 
-bool PgoPre::EnableSpec(Value* val, const BasicBlock* n)
+bool PRE::EnableSpec(Value* val, const BasicBlock* n)
 {
   return (ProbCost(val, n) < ProbBenefit(val, n));
 }
