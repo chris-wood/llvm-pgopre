@@ -36,6 +36,167 @@
 #include "Support/hash_set"
 using namespace llvm;
 
+// for convenience
+#include <iostream>
+using namespace std; 
+
+typedef std::pair<const BasicBlock*, const BasicBlock*> GraphEdge;
+
+// Helpful class/container for CFG subpaths - just a set of ordered pairs/edges
+class GraphPath
+{
+public:
+  // containers and fields
+  vector<GraphEdge> edges;
+  vector<int> weights;
+  vector<const BasicBlock*> nodes;
+  map<Value*, bool> valueContainsMap;
+  map<Value*, int> valueBlockMap;
+  bool fromStart;
+  // double freq;
+
+  // void addBlock(const BasicBlock* blk)
+  // {
+    // for (BasicBlock::iterator i = blk->begin(), e = blk->end(); i != e; ++i)
+    // {
+    //   Instruction* inst = *i;
+
+    // }
+  // }
+
+  // methods
+  // TODO: buildSubgraph() = returns new instance of this class, or emtpy
+
+  GraphPath* buildSubPath(unsigned int i) // return subpath from index i to end of the path
+  {
+    if (i < nodes.size())
+    {
+      GraphPath* subPath = new GraphPath();
+      if (i != 0) subPath->fromStart = false;
+      cout << "Nodes Edges Weights" << endl;
+      cout << nodes.size() << " " << edges.size() << " " << weights.size() << endl;
+      for (unsigned int index = i; index < nodes.size(); index++)
+      {
+        subPath->nodes.push_back(nodes.at(index));
+        if (index != nodes.size() - 1)
+        {
+          subPath->edges.push_back(edges.at(index));
+          subPath->weights.push_back(weights.at(index));
+        }
+      }
+
+      return subPath;
+    }
+    else
+    {
+      return NULL;
+    }
+  }
+
+  GraphPath* concat(GraphPath* p2)
+  {
+    GraphPath* newPath = new GraphPath();
+    const BasicBlock* hinge;
+
+    // append info from path 1
+    for (unsigned int i = 0; i < nodes.size(); i++)
+    {
+      newPath->nodes.push_back(nodes.at(i));
+      if (i != nodes.size() - 1)
+      {
+        newPath->edges.push_back(edges.at(i));
+        newPath->weights.push_back(weights.at(i));
+      }
+      hinge = nodes.at(i);
+    }
+
+    // sanity check to make sure that the hinge matches the start of path2
+    if (hinge != p2->nodes.at(0))
+    {
+      return NULL;
+    }
+
+    // append info from path 2
+    for (unsigned int i = 0; i < p2->nodes.size(); i++)
+    {
+      newPath->nodes.push_back(p2->nodes.at(i));
+      if (i != p2->nodes.size())
+      {
+        newPath->edges.push_back(p2->edges.at(i));
+        newPath->weights.push_back(p2->weights.at(i));
+      }
+    }
+
+    return newPath;
+  }
+
+  bool containsValue(Value* inst)
+  {
+    return valueContainsMap[inst]; // we shouldn't need to do any error checking since the map is assumed to be initialized correctly
+  }
+
+  void checkForValue(Value* val)
+  {
+    for (unsigned int i = 0; i < nodes.size(); i++)
+    {
+      const BasicBlock* blk = nodes.at(i);
+      for (BasicBlock::const_iterator itr = blk->begin(), e = blk->end(); itr != e; ++itr)
+      {
+        Instruction* bbinst = const_cast<Instruction*>(&(*itr));
+        Value* bbinstValue = dyn_cast<Value>(bbinst);
+
+        // Check for exact match on the instruction result
+        if (val == bbinstValue)
+        {
+          valueContainsMap[val] = true;
+          valueBlockMap[val] = i;
+          return;
+        }
+
+        // Check the operands now...
+        for (unsigned int opi = 0; opi < bbinst->getNumOperands(); opi++)
+        {
+          Value* operandVal = bbinst->getOperand(opi);
+          if (val == operandVal)
+          {
+            valueContainsMap[val] = true;
+            valueBlockMap[val] = i;
+            return;
+          }
+        }
+      }
+    }
+
+    // wasn't in any of the basic blocks above... so set to false and return
+    valueContainsMap[val] = false;
+    valueBlockMap[val] = -1;
+    return;
+  }
+
+  int freq() { // to me, using the minimum edge weight as the frequency of this whole path makes the most sense...
+    int f = weights.at(0);
+    for (unsigned int i = 1; i < weights.size(); i++)
+    {
+      if (weights.at(i) < f)
+      {
+        f = weights.at(i);
+      }
+    }
+    return f;
+  }
+
+  int totalWeight() {
+    int acc = 0;
+    for (unsigned int i = 0; i < weights.size(); i++)
+    {
+      acc = acc + weights.at(i);
+    }
+    return acc;
+  }
+};
+
+typedef pair<Value*, const BasicBlock*> ExpressionNodePair;
+
 namespace {
   Statistic<> NumExprsEliminated("pre", "Number of expressions constantified");
   Statistic<> NumRedundant      ("pre", "Number of redundant exprs eliminated");
@@ -54,6 +215,10 @@ namespace {
     virtual bool runOnFunction(Function &F);
 
   private:
+    // New content fancy shmancy
+    ProfileInfo *PI;
+    vector<GraphPath*> paths;
+
     // Block information - Map basic blocks in a function back and forth to
     // unsigned integers.
     std::vector<BasicBlock*> BlockMapping;
@@ -78,7 +243,27 @@ namespace {
     typedef hash_map<BasicBlock*, Instruction*> AvailableBlocksTy;
     AvailableBlocksTy AvailableBlocks;
 
+    // Containers of CFG paths (and subpaths)
+    // TODO: this should really be a map from pairs of (expressions/instructions exp, block n) to a path
+    map<ExpressionNodePair, vector<GraphPath*> > AvailableSubPaths;
+    map<ExpressionNodePair, vector<GraphPath*> > UnAvailableSubPaths;
+    map<ExpressionNodePair, vector<GraphPath*> > AnticipableSubPaths;
+    map<ExpressionNodePair, vector<GraphPath*> > UnAnticipableSubPaths;
+    map<ExpressionNodePair, vector<GraphPath*> > BenefitPaths;
+    map<ExpressionNodePair, vector<GraphPath*> > CostPaths;
+    map<const BasicBlock*, int> BlockFreqMap;
+
     bool ProcessBlock(BasicBlock *BB);
+
+    // Functions to compute the cost and benefit of a path
+    // it is assume profile information is in scope and can be used for these calculations
+    int Cost(Value* val, const BasicBlock* n);
+    int Benefit(Value* val, const BasicBlock* n);
+
+    // Functions for enabling/disabling speculation at certain spots in the function CFG
+    double ProbCost(Value* val, const BasicBlock* n);
+    double ProbBenefit(Value* val, const BasicBlock* n);
+    bool EnableSpec(Value* val, const BasicBlock* n);
     
     // Anticipatibility calculation...
     void MarkPostDominatingBlocksAnticipatible(PostDominatorTree::Node *N,
@@ -110,6 +295,9 @@ bool PRE::runOnFunction(Function &F) {
   PDT = &getAnalysis<PostDominatorTree>();
   PDF = &getAnalysis<PostDominanceFrontier>();
 
+  // Gather the profile information.
+  PI = &getAnalysis<ProfileInfo>();
+
   DEBUG(std::cerr << "\n*** Running PRE on func '" << F.getName() << "'...\n");
 
   // Number the basic blocks based on a reverse post-order traversal of the CFG
@@ -131,6 +319,322 @@ bool PRE::runOnFunction(Function &F) {
     DEBUG(std::cerr << "\n");
   }
 
+
+  /* need to initialize the subpath collections with their frequencies here
+  hash_map<const BasicBlock*, GraphPath*> AvailableSubPaths;
+  hash_map<const BasicBlock*, GraphPath*> UnAvailableSubPaths;
+  hash_map<const BasicBlock*, GraphPath*> AnticipableSubPaths;
+  hash_map<const BasicBlock*, GraphPath*> UnAnticipableSubPaths;
+  */
+
+  // Build all paths through the graph using BFS
+  // getSinglePredecessor().
+  queue<const BasicBlock*> bfsQueue;
+  bfsQueue.push(startNode);
+  set<const BasicBlock*> visited;
+
+  // Maintain tails of all paths constructed so far...
+  GraphPath* startPath = new GraphPath();
+  startPath->nodes.push_back(startNode);
+  paths.push_back(startPath);
+
+  // Now BFS walk
+  while (bfsQueue.empty() == false)
+  {
+    const BasicBlock* curr = bfsQueue.front();
+    bfsQueue.pop();
+    visited.insert(curr);
+
+    // Find a way to extend all known paths by this given path
+    const BasicBlock* parent = curr->getSinglePredecessor();
+    if (parent != NULL)
+    {
+      for (unsigned int i = 0; i < paths.size(); i++)
+      {
+        unsigned int numNodes = paths.at(i)->nodes.size();
+        if (paths.at(i)->nodes.at(numNodes - 1) == parent)
+        {
+          // We found a way to EXTEND this path, so create an entirely 
+          //  new graph path and add it to the set of tails.
+          GraphPath* newPath = new GraphPath();
+          newPath->fromStart = true;
+          for (unsigned int j = 0; j < numNodes; j++) // save old paths
+          {
+            newPath->nodes.push_back(paths.at(i)->nodes.at(j));
+          }
+          for (unsigned int j = 0; j < numNodes - 1; j++) // #edges = (numNodes - 1) by properties of path
+          {
+            newPath->edges.push_back(paths.at(i)->edges.at(j));
+            newPath->weights.push_back(paths.at(i)->weights.at(j));
+          }
+  cout << "New path edges   = " << newPath->edges.size() << endl;
+  cout << "New path weights = " << newPath->weights.size() << endl;
+  cout << "New path nodes   = " << numNodes << endl;
+
+          // Fetch the weight of this new edge
+          std::pair<const BasicBlock*, const BasicBlock*> e = PI->getEdge(parent, curr);
+          double newWeight = PI->getEdgeWeight(e);
+
+          // Build the new edge
+          // typedef GraphEdge std::pair<const BasicBlock*, const BasicBlock*>;
+          GraphEdge newEdge = GraphEdge(parent, curr);
+
+          // Append the new path vertex, edge, and weight of the edge, resp
+          newPath->nodes.push_back(curr);
+          newPath->edges.push_back(newEdge);
+          newPath->weights.push_back(newWeight);
+
+          ///////////////////////////////////
+          // Update the BlockFreqMap based on the in-degree to this block/node
+          ///////////////////////////////////
+          map<const BasicBlock*, int>::iterator findItr = BlockFreqMap.find(curr);
+          if (findItr == BlockFreqMap.end())
+          {
+            BlockFreqMap[curr] = newWeight; // initialize to the in-degree
+          }
+          else
+          {
+            BlockFreqMap[curr] += newWeight; // else, increment the value that's already tgere 
+          }
+
+          // Finally, append this new path to our collection obtained so far...
+          paths.push_back(newPath);
+        }
+      }
+    } 
+
+    // Push this block's successors into the queue as per BFS
+    for (llvm::succ_const_iterator itr = succ_begin(curr); itr != succ_end(curr); itr++)
+    {
+      if (visited.find(*itr) == visited.end()) // not in the set of visited blocks
+      {
+        bfsQueue.push(*itr);
+      }
+      else
+      {
+        cout << "Skipping block (already visited) @" << *itr << endl;
+      }
+    }
+  }
+
+  // Need to now make subpaths from the set of paths above (needed for unanticipable sets)
+  for (unsigned int pId = 0; pId < paths.size(); pId++)
+  {
+    GraphPath* path = paths.at(pId);
+    for (unsigned int n = 1; n < path->nodes.size(); n++)
+    {
+      GraphPath* subPath = path->buildSubPath(n);
+      paths.push_back(subPath);
+    }
+  }
+
+  // Initialize the instructionContainsMap for each instruction for each graph path
+  // instructionContainsMap
+for (inst_iterator instItr = inst_begin(&F), E = inst_end(&F); instItr != E; ++instItr)
+  {
+    Instruction& inst = *instItr;
+    Value* instValue = dyn_cast<Value>(&inst); // cast instruction to value
+    for (unsigned int i = 0; i < paths.size(); i++)
+    {
+      // paths.at(i)->checkForInstruction(&inst);
+      paths.at(i)->checkForValue(instValue);
+    }
+  }
+
+  // Walk the instructions in the function to build up the available, unavailable, anticipable, unanticipable sets  
+   startItr = F.begin();
+  for (inst_iterator instItr = inst_begin(&F), E = inst_end(&F); instItr != E; ++instItr)
+  {
+    Instruction& inst = *instItr; // this is the expression (exp) used in all of the sets
+    Value* instValue = dyn_cast<Value>(&inst); // cast instruction to value
+    cout << "Calculating sets for value: " << instValue << endl;
+
+    // Extract operands for this instruction
+    vector<Value*> operands;
+    vector<StringRef> operandNames;
+    for (unsigned int opi = 0; opi < inst.getNumOperands(); opi++)
+    {
+      operands.push_back(inst.getOperand(opi));
+      operandNames.push_back(inst.getOperand(opi)->getName());
+    }
+
+    // 1. Build AvailableSubPaths for all blocks that are not the start, using BFS of basic blocks to build paths
+    // 2. Build UnavailableSubPaths at the same time...
+    for (unsigned int pId = 0; pId < paths.size(); pId++) // check every path...
+    {
+      bool killed = false;
+      if (paths.at(pId)->fromStart == true && paths.at(pId)->containsValue(instValue)) // only check this path if it contains the instruction somewhere
+      {
+        int bId = paths.at(pId)->valueBlockMap[instValue]; // the block ID in this path that contains the instruction
+
+        for (int prevBlockId = 0; prevBlockId < bId; prevBlockId++) // check each instruction UP to the previous block to see if the expression is contained...
+        {
+          // check each instruction in this block
+          BasicBlock* blk = const_cast<BasicBlock*>(paths.at(pId)->nodes.at(bId));
+          for (BasicBlock::iterator prevBlockInstItr = blk->begin(), prevBlockInstItrEnd = blk->end(); prevBlockInstItr != prevBlockInstItrEnd; ++prevBlockInstItr)
+          {
+            Value* instValue = dyn_cast<Value>(&(*prevBlockInstItr)); // cast instruction to value
+            for (unsigned int vId = 0; vId < operands.size(); vId++)
+            {
+              if (instValue == operands.at(vId)) // match in the operand list (one of the operands was re-evaluated by a previous instruction)
+              {
+                killed = true;
+              }
+            }
+          }
+        }
+
+        // Now check the instructions current block 
+        // TODO: is it even necessary to even check the current block?
+        // for (BasicBlock::iterator prevBlockInstItr = blk->begin(), prevBlockInstItrEnd = blk->end(); prevBlockInstItr != prevBlockInstItrEnd; ++prevBlockInstItr)
+        // {
+        // }
+
+        // was not killed along some path from start to this node n
+        if (killed == false)
+        {
+          ExpressionNodePair enpair = std::make_pair(instValue, paths.at(pId)->nodes.at(bId));
+          AvailableSubPaths[enpair].push_back(paths.at(pId)); // save this (exp, node/block, path) pair in the available subpaths
+        }
+        else // it was killed, so it belongs in the unavailable subpaths thing
+        {
+          ExpressionNodePair enpair = std::make_pair(instValue, paths.at(pId)->nodes.at(bId));
+          UnAvailableSubPaths[enpair].push_back(paths.at(pId)); // save this (exp, node/block, path) pair in the available subpaths
+        }
+      } 
+      // else // this instruction isn't even available on this path... so it belongs in the unavailable subpaths group
+      // {
+      //   ExpressionNodePair enpair = std::make_pair(instValue, NULL);
+      //   UnAvailableSubPaths[enpair].push_back(paths.at(pId)); // save this (exp, node/block, path) pair in the available subpaths
+      // }
+    }
+
+    // 3/4. Build Unanticipable sets
+    // Need to walk paths STARTING at n and going to the end, and do something similar to the above
+    for (unsigned int pId = 0; pId < paths.size(); pId++) // check every path...
+    {
+      bool opEvaluated = false;
+      bool valEvaluated = false;
+      bool includeInSet = true;
+      if (paths.at(pId)->fromStart == false && paths.at(pId)->containsValue(instValue)) // only check this path if it contains the instruction somewhere
+      {
+        int bId = paths.at(pId)->valueBlockMap[instValue]; // the block ID in this path that contains the instruction
+
+        for (int prevBlockId = 0; prevBlockId < bId; prevBlockId++) // check each instruction UP to the previous block to see if the expression is contained...
+        {
+          // check each instruction in this block
+          BasicBlock* blk = const_cast<BasicBlock*>(paths.at(pId)->nodes.at(bId));
+          for (BasicBlock::iterator prevBlockInstItr = blk->begin(), prevBlockInstItrEnd = blk->end(); prevBlockInstItr != prevBlockInstItrEnd; ++prevBlockInstItr)
+          {
+            Value* instValue = dyn_cast<Value>(&(*prevBlockInstItr)); // cast instruction to value
+            if (valEvaluated == false) //instValue
+            {
+              if (opEvaluated == true)
+              {
+                includeInSet = false;
+              }
+              valEvaluated = true;
+            }
+            for (unsigned int vId = 0; vId < operands.size(); vId++)
+            {
+              if (instValue == operands.at(vId)) // match in the operand list (one of the operands was re-evaluated by a previous instruction)
+              {
+                opEvaluated = true;
+              }
+            }
+          }
+        }
+
+        // was not killed along some path from start to this node n
+        if (includeInSet == false)
+        {
+          ExpressionNodePair enpair = std::make_pair(instValue, paths.at(pId)->nodes.at(bId));
+          AnticipableSubPaths[enpair].push_back(paths.at(pId)); // save this (exp, node/block, path) pair in the available subpaths
+        }
+        else // it was killed, so it belongs in the unavailable subpaths thing
+        {
+          ExpressionNodePair enpair = std::make_pair(instValue, paths.at(pId)->nodes.at(bId));
+          UnAnticipableSubPaths[enpair].push_back(paths.at(pId)); // save this (exp, node/block, path) pair in the available subpaths
+        }
+      } 
+      // else // this instruction isn't even available on this path... so it belongs in the unavailable subpaths group
+      // {
+      //   ExpressionNodePair enpair = std::make_pair(instValue, NULL);
+      //   UnAnticipableSubPaths[enpair].push_back(paths.at(pId)); // save this (exp, node/block, path) pair in the available subpaths
+      // }
+    }
+
+    // https://groups.google.com/forum/#!topic/llvm-dev/SJXFz0-Ck6A
+    // cast instruction to value, and compare against operands... if any are equal, then we assume they were KILLED, and yeah.... so on and so forth
+  }
+
+  ////////////////////////////////////////////////////////////
+  // Now build the benefit and cost paths
+  ////////////////////////////////////////////////////////////
+  // cost path: paths obtained by concatenating unavailable paths with unanticipable paths
+  ////////////////////////////////////////////////////////////
+  for(std::map<ExpressionNodePair, vector<GraphPath*> >::iterator iter1 = UnAvailableSubPaths.begin(); iter1 != UnAvailableSubPaths.end(); ++iter1)
+  {
+    ExpressionNodePair enpair1 = iter1->first;
+    for(std::map<ExpressionNodePair, vector<GraphPath*> >::iterator iter2 = UnAnticipableSubPaths.begin(); iter2 != UnAnticipableSubPaths.end(); ++iter2)
+    {
+      ExpressionNodePair enpair2 = iter2->first;
+
+      // If these ExpressionNode pairs correspond to the same thing, then the paths can obviously be joined
+      if (enpair1.first == enpair2.first && enpair1.second == enpair2.second)
+      {
+        // join each of the paths together now...
+        vector<GraphPath*> p1s = iter1->second;
+        vector<GraphPath*> p2s = iter2->second;
+        for (unsigned int p1i = 0; p1i < p1s.size(); p1i++)
+        {
+          for (unsigned int p2i = 0; p2i < p2s.size(); p2i++) 
+          {
+            GraphPath* join = p1s.at(p1i)->concat(p2s.at(p2i));
+            CostPaths[enpair1].push_back(join);
+          }
+        }
+      }
+
+      // // check to see if these guys can be joined...
+      // // if the last node on path1 == first node on path2
+      // unsigned int n1 = iter1->second->nodes.size();
+      // unsigned int n2 = iter2->second->nodes.size();
+      // if (iter1->second->nodes.at(n1 - 1) == iter2->second->nodes.at(n2 - 1))
+      // {
+        // GraphPath* join = iter1->second->concat(iter2->second);
+        // CostPaths.push_back(join);
+      // }
+    }
+  }
+
+  ////////////////////////////////////////////////////////////
+  // benefit path: paths obtained by concatenating available paths with anticipable paths
+  ////////////////////////////////////////////////////////////
+  for(std::map<ExpressionNodePair, vector<GraphPath*> >::iterator iter1 = AvailableSubPaths.begin(); iter1 != AvailableSubPaths.end(); ++iter1)
+  {
+    ExpressionNodePair enpair1 = iter1->first;
+    for(std::map<ExpressionNodePair, vector<GraphPath*> >::iterator iter2 = AnticipableSubPaths.begin(); iter2 != AnticipableSubPaths.end(); ++iter2)
+    {
+      ExpressionNodePair enpair2 = iter2->first;
+      // If these ExpressionNode pairs correspond to the same thing, then the paths can obviously be joined
+      if (enpair1.first == enpair2.first && enpair1.second == enpair2.second)
+      {
+        // join each of the paths together now...
+        vector<GraphPath*> p1s = iter1->second;
+        vector<GraphPath*> p2s = iter2->second;
+        for (unsigned int p1i = 0; p1i < p1s.size(); p1i++)
+        {
+          for (unsigned int p2i = 0; p2i < p2s.size(); p2i++) 
+          {
+            GraphPath* join = p1s.at(p1i)->concat(p2s.at(p2i));
+            BenefitPaths[enpair1].push_back(join);
+          }
+        }
+      }
+    }
+  }
+
   // Traverse the current function depth-first in dominator-tree order.  This
   // ensures that we see all definitions before their uses (except for PHI
   // nodes), allowing us to hoist dependent expressions correctly.
@@ -145,6 +649,65 @@ bool PRE::runOnFunction(Function &F) {
   return Changed;
 }
 
+int PgoPre::Benefit(Value* val, const BasicBlock* n)
+{
+  int benefit = 0; 
+
+  for (std::map<ExpressionNodePair, vector<GraphPath*> >::iterator iter1 = BenefitPaths.begin(); iter1 != BenefitPaths.end(); ++iter1)
+  {
+    ExpressionNodePair enpair1 = iter1->first;
+    vector<GraphPath*> paths = iter1->second;
+    if (enpair1.first == val && enpair1.second == n)
+    {
+      for (unsigned int i = 0; i < paths.size(); i++)
+      {
+        benefit += paths.at(i)->freq();
+      }
+    }
+  }
+  
+  return benefit;
+}
+
+int PgoPre::Cost(Value* val, const BasicBlock* n)
+{
+  int cost = 0;
+
+  for (std::map<ExpressionNodePair, vector<GraphPath*> >::iterator iter1 = CostPaths.begin(); iter1 != CostPaths.end(); ++iter1)
+  {
+    ExpressionNodePair enpair1 = iter1->first;
+    vector<GraphPath*> paths = iter1->second;
+    if (enpair1.first == val && enpair1.second == n)
+    {
+      for (unsigned int i = 0; i < paths.size(); i++)
+      {
+        cost += paths.at(i)->freq();
+      }
+    }
+  }
+  
+  // for (unsigned int i = 0; i < CostPaths.size(); i++)
+  // {
+  //   cost += CostPaths.at(i)->freq();
+  // }
+
+  return cost;
+}
+
+double PgoPre::ProbCost(Value* val, const BasicBlock* n)
+{
+  return (double)Cost(val, n) / (double)BlockFreqMap[n];
+}
+
+double PgoPre::ProbBenefit(Value* val, const BasicBlock* n)
+{
+  return (double)Benefit(val, n) / (double)BlockFreqMap[n];
+}
+
+bool PgoPre::EnableSpec(Value* val, const BasicBlock* n)
+{
+  return (ProbCost(val, n) < ProbBenefit(val, n));
+}
 
 // ProcessBlock - Process any expressions first seen in this block...
 //
