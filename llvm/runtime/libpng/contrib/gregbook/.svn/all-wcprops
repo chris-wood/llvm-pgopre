@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook
+END
+makevms.com
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/makevms.com
+END
+writepng.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/writepng.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/LICENSE
+END
+rpng-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/rpng-win.c
+END
+readpng2.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/readpng2.c
+END
+writepng.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/writepng.h
+END
+Makefile.unx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/Makefile.unx
+END
+Makefile.w32
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/Makefile.w32
+END
+readpng2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/readpng2.h
+END
+wpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/wpng.c
+END
+rpng-x.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/rpng-x.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/Makefile.sgi
+END
+readpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/readpng.c
+END
+rpng2-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/rpng2-win.c
+END
+readpng.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/readpng.h
+END
+toucan.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/toucan.png
+END
+rpng2-x.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/contrib/gregbook/rpng2-x.c
+END

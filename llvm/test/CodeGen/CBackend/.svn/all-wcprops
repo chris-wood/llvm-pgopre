@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend
+END
+2002-08-20-UnnamedArgument.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-20-UnnamedArgument.ll
+END
+2002-08-19-ConstPointerRef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-19-ConstPointerRef.ll
+END
+2002-10-30-FunctionPointerAlloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-10-30-FunctionPointerAlloca.ll
+END
+2002-09-20-VarArgPrototypes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-09-20-VarArgPrototypes.ll
+END
+2003-10-23-ZeroArgVarargs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-10-23-ZeroArgVarargs.ll
+END
+2003-10-28-CastToPtrToStruct.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-10-28-CastToPtrToStruct.ll
+END
+2003-06-11-HexConstant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-06-11-HexConstant.ll
+END
+2002-08-19-FunctionPointer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-19-FunctionPointer.ll
+END
+2003-06-28-InvokeSupport.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-06-28-InvokeSupport.ll
+END
+2003-10-12-NANGlobalInits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-10-12-NANGlobalInits.ll
+END
+2002-08-19-ConstantExpr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-19-ConstantExpr.ll
+END
+2003-10-23-UnusedType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-10-23-UnusedType.ll
+END
+2003-06-11-LiteralStringProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-06-11-LiteralStringProblem.ll
+END
+2003-06-23-PromotedExprs.llx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-06-23-PromotedExprs.llx
+END
+2003-05-12-IntegerSizeWarning.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-05-12-IntegerSizeWarning.ll
+END
+2002-10-16-External.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-10-16-External.ll
+END
+2002-08-19-DataPointer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-19-DataPointer.ll
+END
+2003-11-21-ConstantShiftExpr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-11-21-ConstantShiftExpr.ll
+END
+2004-02-26-LinkOnceFunctions.llx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2004-02-26-LinkOnceFunctions.llx
+END
+2004-02-13-FrameReturnAddress.llx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2004-02-13-FrameReturnAddress.llx
+END
+2003-05-13-VarArgFunction.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-05-13-VarArgFunction.ll
+END
+2002-09-20-ArrayTypeFailure.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-09-20-ArrayTypeFailure.ll
+END
+2004-08-09-va-end-null.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2004-08-09-va-end-null.ll
+END
+2002-08-30-StructureOrderingTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-30-StructureOrderingTest.ll
+END
+2002-08-20-RecursiveTypes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-20-RecursiveTypes.ll
+END
+2002-08-19-HardConstantExpr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-19-HardConstantExpr.ll
+END
+2002-08-26-IndirectCallTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-08-26-IndirectCallTest.ll
+END
+2002-05-21-MissingReturn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-05-21-MissingReturn.ll
+END
+2002-10-15-OpaqueTypeProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-10-15-OpaqueTypeProblem.ll
+END
+2003-06-01-NullPointerType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-06-01-NullPointerType.ll
+END
+2004-02-26-FPNotPrintableConstants.llx
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2004-02-26-FPNotPrintableConstants.llx
+END
+2002-05-16-NameCollide.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-05-16-NameCollide.ll
+END
+2003-06-28-LinkOnceGlobalVars.llx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-06-28-LinkOnceGlobalVars.llx
+END
+2002-11-06-PrintEscaped.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2002-11-06-PrintEscaped.ll
+END
+2004-02-15-PreexistingExternals.llx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2004-02-15-PreexistingExternals.llx
+END
+2003-05-31-MissingStructName.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CodeGen/CBackend/2003-05-31-MissingStructName.ll
+END

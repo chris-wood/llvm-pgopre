@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler
+END
+2004-02-01-NegativeZero.llx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-02-01-NegativeZero.llx
+END
+2003-05-03-BytecodeReaderProblem.llx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-03-BytecodeReaderProblem.llx
+END
+select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/select.ll
+END
+2002-12-15-GlobalResolve.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-12-15-GlobalResolve.ll
+END
+2002-04-07-HexFloatConstants.llx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-04-07-HexFloatConstants.llx
+END
+2002-10-13-ConstantEncodingProblem.llx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-10-13-ConstantEncodingProblem.llx
+END
+2003-12-30-TypeMapInvalidMemory.llx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-12-30-TypeMapInvalidMemory.llx
+END
+2002-04-05-TypeParsing.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-04-05-TypeParsing.ll
+END
+2002-05-02-InvalidForwardRef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-05-02-InvalidForwardRef.ll
+END
+2002-07-25-ReturnPtrFunction.llx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-25-ReturnPtrFunction.llx
+END
+2002-02-19-TypeParsing.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-02-19-TypeParsing.ll
+END
+2004-01-20-MaxLongLong.llx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-01-20-MaxLongLong.llx
+END
+2002-08-15-CastAmbiguity.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-08-15-CastAmbiguity.ll
+END
+2002-08-15-ConstantExprProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-08-15-ConstantExprProblem.ll
+END
+2002-05-02-ParseError.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-05-02-ParseError.ll
+END
+2002-07-31-SlashInString.llx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-31-SlashInString.llx
+END
+2003-10-04-NotMergingGlobalConstants.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-10-04-NotMergingGlobalConstants.ll
+END
+2003-11-11-ImplicitRename.llx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-11-11-ImplicitRename.llx
+END
+2002-07-14-OpaqueType.llx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-14-OpaqueType.llx
+END
+2003-05-15-AssemblerProblem.llx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-15-AssemblerProblem.llx
+END
+2004-04-04-GetElementPtrIndexTypes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-04-04-GetElementPtrIndexTypes.ll
+END
+2002-03-08-NameCollision.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-03-08-NameCollision.ll
+END
+2003-01-30-UnsignedString.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-01-30-UnsignedString.ll
+END
+ConstantExprFold.llx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/ConstantExprFold.llx
+END
+2003-05-21-EmptyStructTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-21-EmptyStructTest.ll
+END
+2002-01-24-BadSymbolTableAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-01-24-BadSymbolTableAssert.ll
+END
+2003-11-05-ConstantExprShift.llx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-11-05-ConstantExprShift.llx
+END
+2002-08-19-BytecodeReader.llx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-08-19-BytecodeReader.llx
+END
+2004-03-07-FunctionAddressAlignment.llx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-03-07-FunctionAddressAlignment.llx
+END
+2003-05-21-ConstantShiftExpr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-21-ConstantShiftExpr.ll
+END
+2002-08-16-ConstExprInlined.llx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-08-16-ConstExprInlined.llx
+END
+2002-10-15-NameClash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-10-15-NameClash.ll
+END
+2002-04-04-PureVirtMethCall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-04-04-PureVirtMethCall.ll
+END
+2002-01-24-ValueRefineAbsType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-01-24-ValueRefineAbsType.ll
+END
+2002-08-15-UnresolvedGlobalReference.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-08-15-UnresolvedGlobalReference.ll
+END
+2003-06-30-RecursiveTypeProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-06-30-RecursiveTypeProblem.ll
+END
+2003-04-15-ConstantInitAssertion.llx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-04-15-ConstantInitAssertion.llx
+END
+2003-05-15-SwitchBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-15-SwitchBug.ll
+END
+2003-02-02-ConstGlobal.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-02-02-ConstGlobal.ll
+END
+2003-06-17-InvokeDisassemble.llx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-06-17-InvokeDisassemble.llx
+END
+2004-01-11-getelementptrfolding.llx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-01-11-getelementptrfolding.llx
+END
+2003-05-12-MinIntProblem.llx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-12-MinIntProblem.llx
+END
+2002-07-25-QuoteInString.llx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-25-QuoteInString.llx
+END
+2002-10-08-LargeArrayPerformance.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-10-08-LargeArrayPerformance.ll
+END
+2003-05-21-MalformedShiftCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-21-MalformedShiftCrash.llx
+END
+2002-04-07-InfConstant.llx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-04-07-InfConstant.llx
+END
+2003-05-21-MalformedStructCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-05-21-MalformedStructCrash.llx
+END
+2002-07-14-InternalLossage.llx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-14-InternalLossage.llx
+END
+2003-11-24-SymbolTableCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-11-24-SymbolTableCrash.llx
+END
+2003-11-12-ConstantExprCast.llx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-11-12-ConstantExprCast.llx
+END
+2002-07-08-HugePerformanceProblem.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-08-HugePerformanceProblem.llx
+END
+2002-07-25-ParserAssertionFailure.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-07-25-ParserAssertionFailure.llx
+END
+2003-04-25-UnresolvedGlobalReference.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-04-25-UnresolvedGlobalReference.ll
+END
+2004-03-30-UnclosedFunctionCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-03-30-UnclosedFunctionCrash.llx
+END
+2003-08-20-ConstantExprGEP-Fold.llx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-08-20-ConstantExprGEP-Fold.llx
+END
+2004-02-27-SelfUseAssertError.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-02-27-SelfUseAssertError.ll
+END
+2004-06-07-VerifierBug.llx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-06-07-VerifierBug.llx
+END
+2002-04-29-NameBinding.llx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-04-29-NameBinding.llx
+END
+2004-01-22-FloatNormalization.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2004-01-22-FloatNormalization.ll
+END
+2002-04-04-PureVirtMethCall2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-04-04-PureVirtMethCall2.ll
+END
+ConstantExprFoldCast.llx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/ConstantExprFoldCast.llx
+END
+2002-03-08-NameCollision2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-03-08-NameCollision2.ll
+END
+2003-08-21-ConstantExprCast-Fold.llx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2003-08-21-ConstantExprCast-Fold.llx
+END
+2002-08-22-DominanceProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Assembler/2002-08-22-DominanceProblem.ll
+END

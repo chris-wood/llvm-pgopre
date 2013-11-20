@@ -1,0 +1,132 @@
+10
+
+dir
+195259
+https://llvm.org/svn/llvm-project/llvm/tags/RELEASE_13/runtime/GCCLibraries
+https://llvm.org/svn/llvm-project
+
+
+
+2004-08-05T17:45:32.000000Z
+15521
+lattner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+crtend
+dir
+
+libgdbm
+dir
+
+libucb
+dir
+
+libtermcap
+dir
+
+libgcc
+dir
+
+libm
+dir
+
+libutil
+dir
+
+libc
+dir
+
+libcurses
+dir
+
+README.txt
+file
+
+
+
+
+2013-11-20T17:45:15.000000Z
+62eab83206e061b828be0693894931dc
+2003-08-15T02:35:13.000000Z
+7861
+lattner
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+305
+
+libutempter
+dir
+
+Makefile
+file
+
+
+
+
+2013-11-20T17:45:15.000000Z
+ba15d2b54f6d7fc390e697fc32410d1e
+2003-12-08T20:12:46.000000Z
+10324
+lattner
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+738
+
+libmalloc
+dir
+
+libpthread
+dir
+

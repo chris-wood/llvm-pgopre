@@ -1,0 +1,153 @@
+10
+
+dir
+195259
+https://llvm.org/svn/llvm-project/llvm/tags/RELEASE_13/runtime/zlib/contrib
+https://llvm.org/svn/llvm-project
+
+
+
+2004-02-06T16:36:42.000000Z
+11148
+criswell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+minizip
+dir
+
+iostream
+dir
+
+asm586
+dir
+
+asm686
+dir
+
+ada
+dir
+
+infback9
+dir
+
+README.contrib
+file
+
+
+
+
+2013-11-20T17:45:17.000000Z
+f2da47ac3c4da7befca1244ab818d202
+2004-02-06T16:36:42.000000Z
+11148
+criswell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2665
+
+vstudio
+dir
+
+inflate86
+dir
+
+puff
+dir
+
+testzlib
+dir
+
+visual-basic.txt
+file
+
+
+
+
+2013-11-20T17:45:17.000000Z
+94928575e535e4057290970b885627f0
+2004-02-06T16:36:42.000000Z
+11148
+criswell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6060
+
+masm686
+dir
+
+pascal
+dir
+
+masmx86
+dir
+
+delphi
+dir
+
+blast
+dir
+
+iostream2
+dir
+
+iostream3
+dir
+
+untgz
+dir
+
+gzappend
+dir
+

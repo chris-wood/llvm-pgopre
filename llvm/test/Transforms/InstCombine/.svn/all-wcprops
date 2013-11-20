@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine
+END
+2004-01-13-InstCombineInvokePHI.ll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-01-13-InstCombineInvokePHI.ll
+END
+cast-propagate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/cast-propagate.ll
+END
+call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/call.ll
+END
+select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/select.ll
+END
+load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/load.ll
+END
+getelementptr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/getelementptr.ll
+END
+2002-12-05-MissedConstProp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2002-12-05-MissedConstProp.ll
+END
+2002-08-02-CastTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2002-08-02-CastTest.ll
+END
+2003-11-03-VarargsCallBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-11-03-VarargsCallBug.ll
+END
+2003-07-21-ExternalConstant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-07-21-ExternalConstant.ll
+END
+div.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/div.ll
+END
+2004-02-23-ShiftShiftOverflow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-02-23-ShiftShiftOverflow.ll
+END
+2003-09-09-VolatileLoadElim.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-09-09-VolatileLoadElim.ll
+END
+2004-05-07-UnsizedCastLoad.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-05-07-UnsizedCastLoad.ll
+END
+2004-03-13-InstCombineInfLoop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-03-13-InstCombineInfLoop.ll
+END
+2002-05-14-SubFailure.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2002-05-14-SubFailure.ll
+END
+2003-10-29-CallSiteResolve.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-10-29-CallSiteResolve.ll
+END
+2003-08-12-AllocaNonNull.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-08-12-AllocaNonNull.ll
+END
+JavaCompare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/JavaCompare.ll
+END
+add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/add.ll
+END
+cast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/cast.ll
+END
+IntPtrCast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/IntPtrCast.ll
+END
+call-intrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/call-intrinsics.ll
+END
+not.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/not.ll
+END
+and.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/and.ll
+END
+2003-06-05-BranchInvertInfLoop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-06-05-BranchInvertInfLoop.ll
+END
+2004-07-27-ConstantExprMul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-07-27-ConstantExprMul.ll
+END
+2004-08-10-BoolSetCC.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-08-10-BoolSetCC.ll
+END
+2003-05-26-CastMiscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-05-26-CastMiscompile.ll
+END
+getelementptr_index.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/getelementptr_index.ll
+END
+xor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/xor.ll
+END
+canonicalize_branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/canonicalize_branch.ll
+END
+shift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/shift.ll
+END
+2003-11-13-ConstExprCastCall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-11-13-ConstExprCastCall.ll
+END
+bit-tracking.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/bit-tracking.ll
+END
+2004-04-04-InstCombineReplaceAllUsesWith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-04-04-InstCombineReplaceAllUsesWith.ll
+END
+or.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/or.ll
+END
+phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/phi.ll
+END
+2003-10-23-InstcombineNullFail.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-10-23-InstcombineNullFail.ll
+END
+cast-set.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/cast-set.ll
+END
+rem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/rem.ll
+END
+getelementptr_const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/getelementptr_const.ll
+END
+2002-03-11-InstCombineHang.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2002-03-11-InstCombineHang.ll
+END
+sub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/sub.ll
+END
+alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/alloca.ll
+END
+set.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/set.ll
+END
+2002-05-14-TouchDeletedInst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2002-05-14-TouchDeletedInst.ll
+END
+2002-09-17-GetElementPtrCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2002-09-17-GetElementPtrCrash.ll
+END
+mul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/mul.ll
+END
+GEPIdxCanon.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/GEPIdxCanon.ll
+END
+2003-06-22-ConstantExprCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-06-22-ConstantExprCrash.ll
+END
+2003-05-27-ConstExprCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2003-05-27-ConstExprCrash.ll
+END
+2004-08-09-RemInfLoop.llx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/2004-08-09-RemInfLoop.llx
+END
+setcc-strength-reduce.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/setcc-strength-reduce.ll
+END
+pow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/pow.ll
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/README.txt
+END
+malloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/InstCombine/malloc.ll
+END

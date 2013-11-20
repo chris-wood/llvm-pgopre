@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler
+END
+StackerParser.y
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler/StackerParser.y
+END
+StackerCompiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler/StackerCompiler.cpp
+END
+Lexer.l
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler/Lexer.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler/README
+END
+StackerCompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/lib/compiler/StackerCompiler.h
+END

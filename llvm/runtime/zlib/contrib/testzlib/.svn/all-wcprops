@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/testzlib
+END
+testzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/testzlib/testzlib.c
+END
+testzlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/testzlib/testzlib.vcproj
+END
+testzlib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/testzlib/testzlib.sln
+END

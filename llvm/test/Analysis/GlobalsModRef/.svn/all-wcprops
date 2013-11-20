@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/GlobalsModRef
+END
+aliastest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/GlobalsModRef/aliastest.ll
+END
+modreftest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/GlobalsModRef/modreftest.ll
+END
+purecse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/GlobalsModRef/purecse.ll
+END

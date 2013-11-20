@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/SmallExamples/ModuleMaker
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/SmallExamples/ModuleMaker/configure
+END
+Makefile.common.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/SmallExamples/ModuleMaker/Makefile.common.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/SmallExamples/ModuleMaker/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/SmallExamples/ModuleMaker/Makefile
+END

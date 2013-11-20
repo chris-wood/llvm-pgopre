@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngerror.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/configure
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngwtran.c
+END
+pngvcrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngvcrd.c
+END
+libpng.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/libpng.txt
+END
+KNOWNBUG
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/KNOWNBUG
+END
+pngnow.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngnow.png
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/LICENSE.TXT
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngmem.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/png.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngget.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/INSTALL
+END
+pngtest.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngtest.png
+END
+pnggccrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pnggccrd.c
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/CHANGES
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/png.h
+END
+libpng.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/libpng.3
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/example.c
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngtrans.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/Makefile
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngrio.c
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngwrite.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngconf.h
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngset.c
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngpread.c
+END
+Y2KINFO
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/Y2KINFO
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/LICENSE
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngwio.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngrutil.c
+END
+png.5
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/png.5
+END
+pngbar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngbar.jpg
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngwutil.c
+END
+pngbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngbar.png
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/README
+END
+pngasmrd.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngasmrd.h
+END
+libpngpf.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/libpngpf.3
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/TODO
+END
+pngtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngtest.c
+END
+ANNOUNCE
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/ANNOUNCE
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/libpng/pngrtran.c
+END

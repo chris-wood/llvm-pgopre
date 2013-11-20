@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Analysis/DataStructure
+END
+DataStructure.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Analysis/DataStructure/DataStructure.h
+END
+DSNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Analysis/DataStructure/DSNode.h
+END
+DSGraphTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Analysis/DataStructure/DSGraphTraits.h
+END
+DSSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Analysis/DataStructure/DSSupport.h
+END
+DSGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Analysis/DataStructure/DSGraph.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Doc
+END
+doc.aux
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Doc/doc.aux
+END
+doc.tex
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Doc/doc.tex
+END
+doc.log
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Doc/doc.log
+END
+doc.dvi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Doc/doc.dvi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Doc/Makefile
+END

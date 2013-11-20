@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/extract
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/extract/README.txt
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/extract/extract.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/extract/Makefile
+END

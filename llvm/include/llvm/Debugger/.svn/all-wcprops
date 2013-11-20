@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger
+END
+InferiorProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger/InferiorProcess.h
+END
+RuntimeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger/RuntimeInfo.h
+END
+SourceFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger/SourceFile.h
+END
+ProgramInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger/ProgramInfo.h
+END
+Debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger/Debugger.h
+END
+SourceLanguage.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/include/llvm/Debugger/SourceLanguage.h
+END

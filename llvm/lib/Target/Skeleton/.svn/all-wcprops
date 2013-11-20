@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton
+END
+SkeletonInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonInstrInfo.cpp
+END
+SkeletonTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonTargetMachine.cpp
+END
+SkeletonInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonInstrInfo.h
+END
+SkeletonInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonInstrInfo.td
+END
+SkeletonRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonRegisterInfo.cpp
+END
+SkeletonTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonTargetMachine.h
+END
+SkeletonJITInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonJITInfo.cpp
+END
+Skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/Skeleton.h
+END
+Skeleton.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/Skeleton.td
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/README.txt
+END
+SkeletonRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonRegisterInfo.h
+END
+SkeletonRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonRegisterInfo.td
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/Makefile
+END
+SkeletonJITInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/Skeleton/SkeletonJITInfo.h
+END

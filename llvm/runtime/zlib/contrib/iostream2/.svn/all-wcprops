@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/iostream2
+END
+zstream_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/iostream2/zstream_test.cpp
+END
+zstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/zlib/contrib/iostream2/zstream.h
+END

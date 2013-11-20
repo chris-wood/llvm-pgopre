@@ -1,0 +1,145 @@
+10
+
+dir
+195259
+https://llvm.org/svn/llvm-project/llvm/tags/RELEASE_13/test/Transforms
+https://llvm.org/svn/llvm-project
+
+
+
+2004-08-13T18:52:00.000000Z
+15724
+cvs2svn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+BlockPlacement
+dir
+
+IndVarsSimplify
+dir
+
+LICM
+dir
+
+FunctionResolve
+dir
+
+LoopSimplify
+dir
+
+ConstProp
+dir
+
+ScalarRepl
+dir
+
+ArgumentPromotion
+dir
+
+RaiseAllocations
+dir
+
+ADCE
+dir
+
+TailCallElim
+dir
+
+LoopUnswitch
+dir
+
+ProfilePaths
+dir
+
+DecomposeMultiDimRefs
+dir
+
+LoopUnroll
+dir
+
+ConstantMerge
+dir
+
+DSAnalysis
+dir
+
+LowerSwitch
+dir
+
+LowerSetJmp
+dir
+
+GCSE
+dir
+
+PRE
+dir
+
+SCCP
+dir
+
+PiNodeInserter
+dir
+
+BranchCombine
+dir
+
+LevelRaise
+dir
+
+DeadArgElim
+dir
+
+Mem2Reg
+dir
+
+Reassociate
+dir
+
+TailDup
+dir
+
+DeadStoreElimination
+dir
+
+LowerInvoke
+dir
+
+PruneEH
+dir
+
+ModuloSched
+dir
+
+CodeExtractor
+dir
+
+CorrelatedExprs
+dir
+
+InstCombine
+dir
+
+GlobalDCE
+dir
+
+SimplifyCFG
+dir
+
+Inline
+dir
+

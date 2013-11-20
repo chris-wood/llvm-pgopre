@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline
+END
+cfg_preserve_test.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/cfg_preserve_test.ll
+END
+2003-09-22-PHINodeInlineFail.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2003-09-22-PHINodeInlineFail.ll
+END
+2003-10-13-AllocaDominanceProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2003-10-13-AllocaDominanceProblem.ll
+END
+2004-04-20-InlineLinkOnce.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2004-04-20-InlineLinkOnce.llx
+END
+2003-10-26-InlineInvokeExceptionDestPhi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2003-10-26-InlineInvokeExceptionDestPhi.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/basictest.ll
+END
+invoke_test-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/invoke_test-1.ll
+END
+2003-09-22-PHINodesInExceptionDest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2003-09-22-PHINodesInExceptionDest.ll
+END
+invoke_test-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/invoke_test-2.ll
+END
+inline_dce.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/inline_dce.ll
+END
+invoke_test-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/invoke_test-3.ll
+END
+alloca_test.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/alloca_test.ll
+END
+2003-09-22-PHINodesInNormalInvokeDest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2003-09-22-PHINodesInNormalInvokeDest.ll
+END
+2003-09-14-InlineValue.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2003-09-14-InlineValue.ll
+END
+2004-04-15-InlineDeletesCall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Inline/2004-04-15-InlineDeletesCall.ll
+END

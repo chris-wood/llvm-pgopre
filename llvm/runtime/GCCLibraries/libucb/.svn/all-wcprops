@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/GCCLibraries/libucb
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/GCCLibraries/libucb/dummy.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/runtime/GCCLibraries/libucb/Makefile
+END

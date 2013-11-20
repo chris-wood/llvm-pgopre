@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-stub
+END
+llvm-stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-stub/llvm-stub.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-stub/Makefile
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve
+END
+2002-11-09-ExternFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2002-11-09-ExternFn.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/basictest.ll
+END
+2003-05-31-FuncPointerResolve.ll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-05-31-FuncPointerResolve.ll
+END
+2002-08-19-ResolveGlobalVarsEasier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2002-08-19-ResolveGlobalVarsEasier.ll
+END
+2003-05-21-MissingArguments.ll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-05-21-MissingArguments.ll
+END
+2003-06-18-TypePromotion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-06-18-TypePromotion.ll
+END
+2003-11-20-BogusResolveWarning.ll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-11-20-BogusResolveWarning.ll
+END
+2003-05-31-InternalDecl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-05-31-InternalDecl.ll
+END
+2002-08-19-ResolveGlobalVars.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2002-08-19-ResolveGlobalVars.ll
+END
+2003-10-21-GlobalTypeDifference.ll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-10-21-GlobalTypeDifference.ll
+END
+2003-08-23-ArgumentWarning.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-08-23-ArgumentWarning.ll
+END
+retmismatch1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/retmismatch1.ll
+END
+retmismatch2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/retmismatch2.ll
+END
+retmismatch3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/retmismatch3.ll
+END
+2002-11-07-RetMismatch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2002-11-07-RetMismatch.ll
+END
+2003-05-31-AllInternalDecls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-05-31-AllInternalDecls.ll
+END
+2003-04-18-ForwardDeclGlobal.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-04-18-ForwardDeclGlobal.ll
+END
+2003-10-21-GlobalResolveHack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-10-21-GlobalResolveHack.ll
+END
+2003-07-23-CPR-Reference.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/FunctionResolve/2003-07-23-CPR-Reference.ll
+END

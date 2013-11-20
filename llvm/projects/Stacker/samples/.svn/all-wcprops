@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/samples
+END
+goof.st
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/samples/goof.st
+END
+prime.st
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/samples/prime.st
+END
+fibonacci.st
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/samples/fibonacci.st
+END
+hello.st
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/samples/hello.st
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/samples/Makefile
+END

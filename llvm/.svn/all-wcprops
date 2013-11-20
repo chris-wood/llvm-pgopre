@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/LICENSE.TXT
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/configure
+END
+llvm.spec
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/llvm.spec
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/Makefile.common
+END
+Makefile.rules
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/Makefile.rules
+END
+Makefile.config.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/Makefile.config.in
+END
+llvm.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/llvm.spec.in
+END
+CREDITS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/CREDITS.TXT
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/README.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader
+END
+Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader/Reader.cpp
+END
+ArchiveReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader/ArchiveReader.cpp
+END
+Analyzer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader/Analyzer.cpp
+END
+ReaderWrappers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader/ReaderWrappers.cpp
+END
+Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader/Reader.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Bytecode/Reader/Makefile
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86
+END
+X86ISelPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86ISelPattern.cpp
+END
+X86InstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86InstrInfo.td
+END
+X86RegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86RegisterInfo.cpp
+END
+X86.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86.td
+END
+X86CodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86CodeEmitter.cpp
+END
+X86InstrSelInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86InstrSelInfo.td
+END
+X86RegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86RegisterInfo.h
+END
+X86ISelSimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86ISelSimple.cpp
+END
+X86JITInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86JITInfo.h
+END
+X86TargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86TargetMachine.cpp
+END
+X86InstrBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86InstrBuilder.h
+END
+X86InstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86InstrInfo.cpp
+END
+X86FloatingPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86FloatingPoint.cpp
+END
+X86TargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86TargetMachine.h
+END
+X86InstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86InstrInfo.h
+END
+X86PeepholeOpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86PeepholeOpt.cpp
+END
+X86AsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86AsmPrinter.cpp
+END
+X86.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86.h
+END
+X86RegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/X86RegisterInfo.td
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/X86/.cvsignore
+END

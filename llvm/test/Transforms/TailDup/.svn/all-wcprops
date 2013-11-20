@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup
+END
+2003-06-24-Simpleloop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/2003-06-24-Simpleloop.ll
+END
+2004-04-01-DemoteRegToStack.llx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/2004-04-01-DemoteRegToStack.llx
+END
+2003-08-31-UnreachableBlocks.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/2003-08-31-UnreachableBlocks.ll
+END
+2003-08-23-InvalidatedPointers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/2003-08-23-InvalidatedPointers.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/basictest.ll
+END
+PHIUpdateTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/PHIUpdateTest.ll
+END
+basictest2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/basictest2.ll
+END
+2003-07-22-InfiniteLoop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/TailDup/2003-07-22-InfiniteLoop.ll
+END

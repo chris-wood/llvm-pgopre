@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/tools/stkrc
+END
+stkrc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/tools/stkrc/stkrc.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/projects/Stacker/tools/stkrc/Makefile
+END

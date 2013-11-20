@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger
+END
+RuntimeInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/RuntimeInfo.cpp
+END
+SourceFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/SourceFile.cpp
+END
+SourceLanguage-Unknown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/SourceLanguage-Unknown.cpp
+END
+ProgramInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/ProgramInfo.cpp
+END
+Debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/Debugger.cpp
+END
+SourceLanguage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/SourceLanguage.cpp
+END
+SourceLanguage-CFamily.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/SourceLanguage-CFamily.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/README.txt
+END
+UnixLocalInferiorProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/UnixLocalInferiorProcess.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/Makefile
+END
+SourceLanguage-CPlusPlus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Debugger/SourceLanguage-CPlusPlus.cpp
+END

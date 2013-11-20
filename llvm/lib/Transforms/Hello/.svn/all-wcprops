@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Hello
+END
+Hello.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Hello/Hello.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Hello/Makefile
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend
+END
+2004-03-15-CleanupsAndGotos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2004-03-15-CleanupsAndGotos.cpp
+END
+2003-08-28-ForwardType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-28-ForwardType.cpp
+END
+2003-08-24-Cleanup.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-24-Cleanup.cpp.tr
+END
+2003-11-25-ReturningOpaqueByValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-25-ReturningOpaqueByValue.cpp
+END
+2003-11-27-MultipleInheritanceThunk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-27-MultipleInheritanceThunk.cpp
+END
+2003-08-21-EmptyClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-21-EmptyClass.cpp
+END
+2003-08-27-TypeNamespaces.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-27-TypeNamespaces.cpp
+END
+2003-11-09-ConstructorTypeSafety.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-09-ConstructorTypeSafety.cpp.tr
+END
+2003-08-29-ArgPassingBug.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-29-ArgPassingBug.cpp.tr
+END
+2003-08-20-ExceptionFail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-20-ExceptionFail.cpp
+END
+2003-09-30-ForIncrementExprBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-09-30-ForIncrementExprBug.cpp
+END
+2004-06-08-LateTemplateInstantiation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2004-06-08-LateTemplateInstantiation.cpp
+END
+2003-11-02-WeakLinkage.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-02-WeakLinkage.cpp.tr
+END
+2003-12-08-ArrayOfPtrToMemberFunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-12-08-ArrayOfPtrToMemberFunc.cpp
+END
+2004-01-11-DynamicInitializedConstant.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2004-01-11-DynamicInitializedConstant.cpp.tr
+END
+2003-11-04-ArrayConstructors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-04-ArrayConstructors.cpp
+END
+2003-11-18-EnumArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-18-EnumArray.cpp
+END
+2003-11-08-ArrayAddress.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-08-ArrayAddress.cpp.tr
+END
+2004-03-08-ReinterpretCastCopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2004-03-08-ReinterpretCastCopy.cpp
+END
+2003-09-30-ForIncrementExprBug2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-09-30-ForIncrementExprBug2.cpp
+END
+2004-03-09-UnmangledBuiltinMethods.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2004-03-09-UnmangledBuiltinMethods.cpp.tr
+END
+2003-11-18-MemberInitializationCasting.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-18-MemberInitializationCasting.cpp.tr
+END
+2003-10-21-InnerClass.cpp.tr
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-10-21-InnerClass.cpp.tr
+END
+2003-11-04-CatchLabelName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-04-CatchLabelName.cpp
+END
+2003-10-17-BoolBitfields.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-10-17-BoolBitfields.cpp
+END
+2003-09-30-NestedFunctionDecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-09-30-NestedFunctionDecl.cpp
+END
+2003-11-18-PtrMemConstantInitializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-18-PtrMemConstantInitializer.cpp
+END
+2003-08-31-StructLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-31-StructLayout.cpp
+END
+2003-10-27-VirtualBaseClassCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-10-27-VirtualBaseClassCrash.cpp
+END
+2003-11-29-DuplicatedCleanupTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-11-29-DuplicatedCleanupTest.cpp
+END
+2003-09-30-CommaExprBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-09-30-CommaExprBug.cpp
+END
+2003-09-29-ArgumentNumberMismatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-09-29-ArgumentNumberMismatch.cpp
+END
+2003-09-22-CompositeExprValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-09-22-CompositeExprValue.cpp
+END
+2003-08-28-SaveExprBug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/C++Frontend/2003-08-28-SaveExprBug.cpp
+END

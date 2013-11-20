@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify
+END
+2003-04-16-ExprAnalysis.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-04-16-ExprAnalysis.ll
+END
+2004-04-07-ScalarEvolutionCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2004-04-07-ScalarEvolutionCrash.llx
+END
+tripcount_compute.llx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/tripcount_compute.llx
+END
+2003-12-10-IndVarDeadCode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-12-10-IndVarDeadCode.ll
+END
+2003-12-15-Crash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-12-15-Crash.llx
+END
+loop_evaluate_1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/loop_evaluate_1.ll
+END
+exit_value_tests.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/exit_value_tests.llx
+END
+2002-09-09-PointerIndVar.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2002-09-09-PointerIndVar.ll
+END
+pointer-indvars.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/pointer-indvars.ll
+END
+subtract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/subtract.ll
+END
+2004-03-10-PHIInsertionBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2004-03-10-PHIInsertionBug.ll
+END
+2003-09-12-MultiplePred.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-09-12-MultiplePred.ll
+END
+2003-12-21-IndVarSize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-12-21-IndVarSize.ll
+END
+2003-09-23-NotAtTop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-09-23-NotAtTop.ll
+END
+tripcount_infinite.llx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/tripcount_infinite.llx
+END
+2004-04-05-InvokeCastCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2004-04-05-InvokeCastCrash.llx
+END
+2003-12-10-RemoveInstrCrash.llx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/2003-12-10-RemoveInstrCrash.llx
+END
+lftr_simple.llx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/IndVarsSimplify/lftr_simple.llx
+END

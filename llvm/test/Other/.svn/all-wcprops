@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other
+END
+2002-01-31-CallGraph.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2002-01-31-CallGraph.ll
+END
+2002-02-24-InlineBrokePHINodes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2002-02-24-InlineBrokePHINodes.ll
+END
+2002-01-31-PostDomSet-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2002-01-31-PostDomSet-2.ll
+END
+2002-01-31-PostDomSet.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2002-01-31-PostDomSet.ll
+END
+2002-08-02-DomSetProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2002-08-02-DomSetProblem.ll
+END
+2003-02-19-LoopInfoNestingBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2003-02-19-LoopInfoNestingBug.ll
+END
+2002-03-11-ConstPropCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Other/2002-03-11-ConstPropCrash.ll
+END

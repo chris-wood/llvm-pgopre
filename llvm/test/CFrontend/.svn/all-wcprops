@@ -1,0 +1,755 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend
+END
+2002-11-07-Redefinition.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-11-07-Redefinition.c
+END
+2003-09-18-BitfieldTests.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-09-18-BitfieldTests.c
+END
+2003-11-13-TypeSafety.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-13-TypeSafety.c.tr
+END
+2003-11-26-PointerShift.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-26-PointerShift.c
+END
+2002-09-18-UnionProblem.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-09-18-UnionProblem.c
+END
+2003-08-21-WideString.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-21-WideString.c
+END
+2004-02-14-ZeroInitializer.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-14-ZeroInitializer.c
+END
+2002-02-18-StaticData.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-18-StaticData.c
+END
+2003-06-26-CFECrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-06-26-CFECrash.c
+END
+2003-12-14-ExternInlineSupport.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-12-14-ExternInlineSupport.c.tr
+END
+2003-11-19-BitFieldArray.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-19-BitFieldArray.c
+END
+2002-03-14-BrokenPHINode.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-14-BrokenPHINode.c
+END
+2003-11-27-UnionCtorInitialization.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-27-UnionCtorInitialization.c
+END
+2003-08-29-StructLayoutBug.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-29-StructLayoutBug.c
+END
+2003-02-12-NonlocalGoto.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-02-12-NonlocalGoto.c
+END
+2002-07-30-SubregSetAssertion.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-30-SubregSetAssertion.c
+END
+2002-06-25-FWriteInterfaceFailure.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-06-25-FWriteInterfaceFailure.c
+END
+2003-11-01-C99-CompoundLiteral.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-01-C99-CompoundLiteral.c
+END
+2004-02-13-IllegalVararg.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-13-IllegalVararg.c.tr
+END
+2004-06-08-OpaqueStructArg.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-06-08-OpaqueStructArg.c
+END
+2002-02-16-RenamingTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-16-RenamingTest.c
+END
+2002-01-23-LoadQISIReloadFailure.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-01-23-LoadQISIReloadFailure.c
+END
+2002-02-14-EntryNodePreds.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-14-EntryNodePreds.c
+END
+2002-07-14-MiscTests2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-14-MiscTests2.c
+END
+2003-10-06-NegateExprType.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-10-06-NegateExprType.c
+END
+2004-08-06-LargeStructTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-08-06-LargeStructTest.c
+END
+2003-10-02-UnionLValueError.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-10-02-UnionLValueError.c
+END
+2003-11-20-ComplexDivision.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-20-ComplexDivision.c
+END
+2003-01-30-UnionInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-01-30-UnionInit.c
+END
+2004-06-17-UnorderedBuiltins.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-06-17-UnorderedBuiltins.c
+END
+2002-12-15-GlobalConstantTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-12-15-GlobalConstantTest.c
+END
+2002-07-30-VarArgsCallFailure.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-30-VarArgsCallFailure.c
+END
+2002-04-07-SwitchStmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-04-07-SwitchStmt.c
+END
+2002-12-15-GlobalBoolTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-12-15-GlobalBoolTest.c
+END
+2002-08-19-RecursiveLocals.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-08-19-RecursiveLocals.c
+END
+2003-11-01-EmptyStructCrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-01-EmptyStructCrash.c
+END
+2004-02-20-StaticRedeclare.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-20-StaticRedeclare.c.tr
+END
+2003-03-03-DeferredType.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-03-03-DeferredType.c
+END
+2002-07-14-MiscTests.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-14-MiscTests.c
+END
+2004-03-09-LargeArrayInitializers.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-03-09-LargeArrayInitializers.c
+END
+2002-03-14-BrokenSSA.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-14-BrokenSSA.c
+END
+2002-07-17-StringConstant.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-17-StringConstant.c
+END
+2003-08-17-DeadCodeShortCircuit.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-17-DeadCodeShortCircuit.c.tr
+END
+2004-06-18-VariableLengthArrayOfStructures.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-06-18-VariableLengthArrayOfStructures.c
+END
+2003-08-21-StmtExpr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-21-StmtExpr.c
+END
+2002-02-17-ArgumentAddress.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-17-ArgumentAddress.c
+END
+2004-02-13-Memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-13-Memset.c
+END
+2003-06-23-GCC-fold-infinite-recursion.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-06-23-GCC-fold-infinite-recursion.c
+END
+2003-10-09-UnionInitializerBug.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-10-09-UnionInitializerBug.c
+END
+2002-07-16-HardStringInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-16-HardStringInit.c
+END
+2003-11-18-CondExprLValue.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-18-CondExprLValue.c
+END
+2002-05-23-TypeNameCollision.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-05-23-TypeNameCollision.c
+END
+2002-12-15-GlobalRedefinition.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-12-15-GlobalRedefinition.c
+END
+2002-01-24-HandleCallInsnSEGV.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-01-24-HandleCallInsnSEGV.c
+END
+2003-11-27-ConstructorCast.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-27-ConstructorCast.c
+END
+2002-02-13-TypeVarNameCollision.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-13-TypeVarNameCollision.c
+END
+2002-02-18-64bitConstant.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-18-64bitConstant.c
+END
+2003-07-22-ArrayAccessTypeSafety.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-07-22-ArrayAccessTypeSafety.c.tr
+END
+2004-03-15-SimpleIndirectGoto.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-03-15-SimpleIndirectGoto.c
+END
+2003-08-29-HugeCharConst.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-29-HugeCharConst.c
+END
+2002-12-15-StructParameters.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-12-15-StructParameters.c
+END
+2002-05-23-StaticValues.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-05-23-StaticValues.c
+END
+2004-01-08-ExternInlineRedefine.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-01-08-ExternInlineRedefine.c
+END
+2004-03-16-AsmRegisterCrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-03-16-AsmRegisterCrash.c
+END
+2002-07-31-BadAssert.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-31-BadAssert.c
+END
+2004-02-13-BuiltinFrameReturnAddress.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-13-BuiltinFrameReturnAddress.c.tr
+END
+2004-02-20-Builtins.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-20-Builtins.c.tr
+END
+2003-08-06-BuiltinSetjmpLongjmp.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-06-BuiltinSetjmpLongjmp.c.tr
+END
+2003-06-22-UnionCrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-06-22-UnionCrash.c
+END
+2004-06-17-UnorderedCompares.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-06-17-UnorderedCompares.c.tr
+END
+2004-02-13-StringInit.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-13-StringInit.c.tr
+END
+2003-08-18-StructAsValue.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-18-StructAsValue.c
+END
+2004-05-07-VarArrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-05-07-VarArrays.c
+END
+2002-02-13-ConditionalInCall.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-13-ConditionalInCall.c
+END
+2004-03-07-ExternalConstant.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-03-07-ExternalConstant.c.tr
+END
+2002-03-12-ArrayInitialization.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-12-ArrayInitialization.c
+END
+2002-02-13-ReloadProblem.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-13-ReloadProblem.c
+END
+2003-11-12-VoidString.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-12-VoidString.c
+END
+2003-08-20-BadBitfieldRef.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-20-BadBitfieldRef.c
+END
+2003-11-01-GlobalUnionInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-01-GlobalUnionInit.c
+END
+2002-08-02-UnionTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-08-02-UnionTest.c
+END
+2002-07-30-UnionTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-30-UnionTest.c
+END
+2003-08-21-BinOp-Type-Mismatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-21-BinOp-Type-Mismatch.c
+END
+2002-05-24-Alloca.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-05-24-Alloca.c
+END
+2002-02-13-UnnamedLocal.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-02-13-UnnamedLocal.c
+END
+2003-11-20-Bitfields.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-20-Bitfields.c
+END
+2003-11-08-PointerSubNotGetelementptr.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-08-PointerSubNotGetelementptr.c.tr
+END
+2002-07-14-MiscTests3.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-14-MiscTests3.c
+END
+2002-04-09-StructRetVal.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-04-09-StructRetVal.c
+END
+2002-03-14-QuotesInStrConst.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-14-QuotesInStrConst.c
+END
+2004-01-01-UnknownInitSize.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-01-01-UnknownInitSize.c
+END
+2002-09-08-PointerShifts.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-09-08-PointerShifts.c
+END
+2002-01-24-ComplexSpaceInType.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-01-24-ComplexSpaceInType.c
+END
+2002-09-19-StarInLabel.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-09-19-StarInLabel.c
+END
+2003-11-16-StaticArrayInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-16-StaticArrayInit.c
+END
+2003-10-29-AsmRename.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-10-29-AsmRename.c
+END
+2002-07-14-MiscListTests.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-14-MiscListTests.c
+END
+2003-08-18-SigSetJmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-18-SigSetJmp.c
+END
+2004-02-12-LargeAggregateCopy.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-02-12-LargeAggregateCopy.c.tr
+END
+2003-06-29-MultipleFunctionDefinition.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-06-29-MultipleFunctionDefinition.c
+END
+2003-11-04-OutOfMemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-04-OutOfMemory.c
+END
+2004-05-21-IncompleteEnum.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-05-21-IncompleteEnum.c
+END
+2002-03-12-StructInitializer.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-12-StructInitializer.c
+END
+2002-07-29-Casts.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-29-Casts.c
+END
+2003-09-30-StructLayout.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-09-30-StructLayout.c
+END
+2003-11-20-UnionBitfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-20-UnionBitfield.c
+END
+2004-03-07-ComplexDivEquals.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-03-07-ComplexDivEquals.c
+END
+2002-04-08-LocalArray.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-04-08-LocalArray.c
+END
+2003-08-20-PrototypeMismatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-20-PrototypeMismatch.c
+END
+2003-08-30-AggregateInitializer.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-30-AggregateInitializer.c
+END
+2003-11-04-EmptyStruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-04-EmptyStruct.c
+END
+2002-07-31-SubregFailure.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-07-31-SubregFailure.c
+END
+2003-08-29-BitFieldStruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-29-BitFieldStruct.c
+END
+2002-03-11-LargeCharInString.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-11-LargeCharInString.c
+END
+2002-03-12-StructInitialize.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-03-12-StructInitialize.c
+END
+2003-11-03-AddrArrayElement.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-03-AddrArrayElement.c.tr
+END
+2002-04-10-StructParameters.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-04-10-StructParameters.c
+END
+2003-08-20-vfork-bug.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-20-vfork-bug.c
+END
+2003-08-30-LargeIntegerBitfieldMember.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-30-LargeIntegerBitfieldMember.c
+END
+2004-07-06-FunctionCast.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-07-06-FunctionCast.c
+END
+2003-10-28-ident.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-10-28-ident.c
+END
+2004-03-07-BitfieldCrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2004-03-07-BitfieldCrash.c
+END
+2002-10-12-TooManyArguments.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2002-10-12-TooManyArguments.c
+END
+2003-11-19-AddressOfRegister.c.tr
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-11-19-AddressOfRegister.c.tr
+END
+2003-08-23-LocalUnionTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/CFrontend/2003-08-23-LocalUnionTest.c
+END

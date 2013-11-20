@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify
+END
+2004-04-01-IncorrectDomUpdate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2004-04-01-IncorrectDomUpdate.ll
+END
+2004-02-05-DominatorInfoCorruption.ll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2004-02-05-DominatorInfoCorruption.ll
+END
+2004-03-15-IncorrectDomUpdate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2004-03-15-IncorrectDomUpdate.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/basictest.ll
+END
+2004-04-12-LoopSimplify-SwitchBackedges.ll
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2004-04-12-LoopSimplify-SwitchBackedges.ll
+END
+2003-04-25-AssertFail.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2003-04-25-AssertFail.ll
+END
+single-backedge.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/single-backedge.ll
+END
+hardertest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/hardertest.ll
+END
+2003-05-12-PreheaderExitOfChild.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2003-05-12-PreheaderExitOfChild.ll
+END
+2004-04-13-LoopSimplifyUpdateDomFrontier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2004-04-13-LoopSimplifyUpdateDomFrontier.ll
+END
+2003-08-15-PreheadersFail.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2003-08-15-PreheadersFail.ll
+END
+2003-12-10-ExitBlocksProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LoopSimplify/2003-12-10-ExitBlocksProblem.ll
+END

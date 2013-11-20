@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC
+END
+PowerPCRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCRegisterInfo.cpp
+END
+PPCBranchSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCBranchSelector.cpp
+END
+PPCInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCInstrInfo.td
+END
+PowerPC.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPC.td
+END
+PowerPCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCCodeEmitter.cpp
+END
+PowerPCRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCRegisterInfo.h
+END
+PowerPCISelSimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCISelSimple.cpp
+END
+PPCJITInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCJITInfo.h
+END
+PowerPCInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCInstrInfo.cpp
+END
+PowerPCPEI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCPEI.cpp
+END
+PPCInstrBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCInstrBuilder.h
+END
+PPCTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCTargetMachine.cpp
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/LICENSE.TXT
+END
+PowerPCTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCTargetMachine.h
+END
+PowerPCInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCInstrInfo.h
+END
+PPCInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCInstrFormats.td
+END
+PowerPCAsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PowerPCAsmPrinter.cpp
+END
+PPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPC.h
+END
+PPCRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/PPCRegisterInfo.td
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Target/PowerPC/Makefile
+END

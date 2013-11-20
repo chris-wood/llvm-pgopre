@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure
+END
+Steensgaard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/Steensgaard.cpp
+END
+CompleteBottomUp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/CompleteBottomUp.cpp
+END
+Parallelize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/Parallelize.cpp
+END
+MemoryDepAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/MemoryDepAnalysis.cpp
+END
+IPModRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/IPModRef.cpp
+END
+DSCallSiteIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DSCallSiteIterator.h
+END
+BottomUpClosure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/BottomUpClosure.cpp
+END
+DataStructureStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DataStructureStats.cpp
+END
+IPModRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/IPModRef.h
+END
+MemoryDepAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/MemoryDepAnalysis.h
+END
+DependenceGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DependenceGraph.cpp
+END
+DataStructureOpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DataStructureOpt.cpp
+END
+PgmDependenceGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/PgmDependenceGraph.cpp
+END
+DependenceGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DependenceGraph.h
+END
+Printer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/Printer.cpp
+END
+PgmDependenceGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/PgmDependenceGraph.h
+END
+GraphChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/GraphChecker.cpp
+END
+TopDownClosure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/TopDownClosure.cpp
+END
+DataStructure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DataStructure.cpp
+END
+Local.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/Local.cpp
+END
+DataStructureAA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/DataStructureAA.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Analysis/DataStructure/Makefile
+END

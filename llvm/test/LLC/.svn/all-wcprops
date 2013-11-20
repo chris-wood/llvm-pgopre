@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC
+END
+spillccr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/spillccr.ll
+END
+2003-05-30-BadFoldGEP.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-05-30-BadFoldGEP.ll
+END
+2003-07-08-BadCastToBool.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-07-08-BadCastToBool.ll
+END
+fwdtwice.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/fwdtwice.ll
+END
+2003-05-28-ManyArgs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-05-28-ManyArgs.ll
+END
+select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/select.ll
+END
+BurgBadRegAlloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/BurgBadRegAlloc.ll
+END
+2003-05-30-BadPreselectPhi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-05-30-BadPreselectPhi.ll
+END
+2003-05-27-phifcmpd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-05-27-phifcmpd.ll
+END
+constindices.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/constindices.ll
+END
+sched.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/sched.ll
+END
+2002-04-14-UnexpectedUnsignedType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2002-04-14-UnexpectedUnsignedType.ll
+END
+badFoldGEP.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/badFoldGEP.ll
+END
+2003-07-06-BadIntCmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-07-06-BadIntCmp.ll
+END
+negintconst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/negintconst.ll
+END
+2003-05-27-useboolinotherbb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-05-27-useboolinotherbb.ll
+END
+2002-04-16-StackFrameSizeAlignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2002-04-16-StackFrameSizeAlignment.ll
+END
+2003-07-29-BadConstSbyte.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-07-29-BadConstSbyte.ll
+END
+badCallArgLRLLVM.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/badCallArgLRLLVM.ll
+END
+badarg6.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/badarg6.ll
+END
+2003-05-27-usefsubasbool.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-05-27-usefsubasbool.ll
+END
+badlive.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/badlive.ll
+END
+2003-07-07-BadLongConst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/LLC/2003-07-07-BadLongConst.ll
+END

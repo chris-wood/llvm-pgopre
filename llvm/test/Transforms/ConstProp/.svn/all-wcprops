@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp
+END
+logicaltest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/logicaltest.ll
+END
+calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/calls.ll
+END
+2002-05-03-NotOperator.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/2002-05-03-NotOperator.ll
+END
+nottest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/nottest.ll
+END
+phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/phi.ll
+END
+2002-05-03-DivideByZeroException.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/2002-05-03-DivideByZeroException.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/basictest.ll
+END
+2003-05-12-DivideError.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/2003-05-12-DivideError.ll
+END
+remtest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/remtest.ll
+END
+2002-09-03-SetCC-Bools.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ConstProp/2002-09-03-SetCC-Bools.ll
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs
+END
+CFEBuildInstrs.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/CFEBuildInstrs.html
+END
+WritingAnLLVMPass.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/WritingAnLLVMPass.html
+END
+Bugpoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/Bugpoint.html
+END
+GettingStarted.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/GettingStarted.html
+END
+ReleaseNotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/ReleaseNotes.html
+END
+Projects.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/Projects.html
+END
+TestingGuide.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/TestingGuide.html
+END
+LLVMVsTheWorld.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/LLVMVsTheWorld.html
+END
+AliasAnalysis.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/AliasAnalysis.html
+END
+llvm.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/llvm.css
+END
+SourceLevelDebugging.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/SourceLevelDebugging.html
+END
+BytecodeFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/BytecodeFormat.html
+END
+doxygen.footer
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/doxygen.footer
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/Makefile
+END
+OpenProjects.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/OpenProjects.html
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/doxygen.cfg.in
+END
+LangRef.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/LangRef.html
+END
+ExtendingLLVM.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/ExtendingLLVM.html
+END
+CodeGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/CodeGenerator.html
+END
+UsingLibraries.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/UsingLibraries.html
+END
+TableGenFundamentals.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/TableGenFundamentals.html
+END
+HowToSubmitABug.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/HowToSubmitABug.html
+END
+CommandLine.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/CommandLine.html
+END
+ObjectFiles.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/ObjectFiles.html
+END
+Stacker.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/Stacker.html
+END
+ProgrammersManual.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/ProgrammersManual.html
+END
+doxygen.header
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/doxygen.header
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/doxygen.css
+END
+GarbageCollection.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/GarbageCollection.html
+END
+doxygen.intro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/doxygen.intro
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/index.html
+END
+FAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/FAQ.html
+END
+CodingStandards.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/CodingStandards.html
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/doxygen.cfg
+END
+SystemLibrary.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/docs/SystemLibrary.html
+END

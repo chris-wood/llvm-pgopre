@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM
+END
+2003-05-02-LoadHoist.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-05-02-LoadHoist.ll
+END
+call_sink_const_function.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/call_sink_const_function.ll
+END
+scalar_promote.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/scalar_promote.ll
+END
+2003-08-04-TrappingInstOkHoist.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-08-04-TrappingInstOkHoist.ll
+END
+sink_multiple.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_multiple.ll
+END
+2003-08-04-TrappingInstHoist.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-08-04-TrappingInstHoist.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/basictest.ll
+END
+sink_phi_node_use.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_phi_node_use.ll
+END
+no-preheader-test.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/no-preheader-test.ll
+END
+2003-12-11-SinkingToPHI.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-12-11-SinkingToPHI.ll
+END
+2003-02-27-PreheaderExitNodeUpdate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-02-27-PreheaderExitNodeUpdate.ll
+END
+sink_multiple_exits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_multiple_exits.ll
+END
+2003-02-27-NestedLoopExitBlocks.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-02-27-NestedLoopExitBlocks.ll
+END
+2003-02-27-StoreSinkPHIs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-02-27-StoreSinkPHIs.ll
+END
+2003-02-26-LoopExitNotDominated.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-02-26-LoopExitNotDominated.ll
+END
+call_sink_pure_function.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/call_sink_pure_function.ll
+END
+sink_inst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_inst.ll
+END
+sink_critical_edge.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_critical_edge.ll
+END
+sink_load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_load.ll
+END
+sink_only_some_exits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_only_some_exits.ll
+END
+sink_trapping_inst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/sink_trapping_inst.ll
+END
+2003-02-28-PromoteDifferentType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-02-28-PromoteDifferentType.ll
+END
+2003-02-27-PreheaderProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-02-27-PreheaderProblem.ll
+END
+2003-12-13-VolatilePromote.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/LICM/2003-12-13-VolatilePromote.ll
+END

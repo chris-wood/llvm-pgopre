@@ -1,0 +1,40 @@
+10
+
+dir
+195259
+https://llvm.org/svn/llvm-project/llvm/tags/RELEASE_13/test/CodeGen
+https://llvm.org/svn/llvm-project
+
+
+
+2004-08-13T18:52:00.000000Z
+15724
+cvs2svn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+X86
+dir
+
+SparcV9
+dir
+
+CBackend
+dir
+
+Generic
+dir
+

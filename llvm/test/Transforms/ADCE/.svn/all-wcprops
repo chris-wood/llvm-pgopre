@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE
+END
+2002-07-17-AssertionFailure.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-07-17-AssertionFailure.ll
+END
+2003-04-25-PHIPostDominateProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-04-25-PHIPostDominateProblem.ll
+END
+2003-01-22-PredecessorProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-01-22-PredecessorProblem.ll
+END
+2003-12-19-MergeReturn.llx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-12-19-MergeReturn.llx
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/basictest.ll
+END
+dce_pure_call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/dce_pure_call.ll
+END
+2003-09-15-InfLoopCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-09-15-InfLoopCrash.ll
+END
+2003-06-24-BasicFunctionality.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-06-24-BasicFunctionality.ll
+END
+2003-09-10-UnwindInstFail.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-09-10-UnwindInstFail.ll
+END
+2002-05-28-Crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-05-28-Crash.ll
+END
+2003-06-11-InvalidCFG.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-06-11-InvalidCFG.ll
+END
+adcetest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/adcetest.ll
+END
+2003-11-16-MissingPostDominanceInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-11-16-MissingPostDominanceInfo.ll
+END
+2002-05-23-ZeroArgPHITest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-05-23-ZeroArgPHITest.ll
+END
+2002-01-31-UseStuckAround.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-01-31-UseStuckAround.ll
+END
+dce_pure_invoke.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/dce_pure_invoke.ll
+END
+2002-07-17-PHIAssertion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-07-17-PHIAssertion.ll
+END
+2004-05-04-UnreachableBlock.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2004-05-04-UnreachableBlock.llx
+END
+basictest1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/basictest1.ll
+END
+basictest2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/basictest2.ll
+END
+2002-05-22-PHITest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-05-22-PHITest.ll
+END
+2002-05-28-Crash-distilled.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-05-28-Crash-distilled.ll
+END
+2002-07-29-Segfault.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2002-07-29-Segfault.ll
+END
+2003-06-24-BadSuccessor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/ADCE/2003-06-24-BadSuccessor.ll
+END

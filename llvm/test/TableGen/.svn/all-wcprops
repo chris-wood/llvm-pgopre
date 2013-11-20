@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen
+END
+BitsInitOverflow.td
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/BitsInitOverflow.td
+END
+GeneralList.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/GeneralList.td
+END
+IntBitInit.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/IntBitInit.td
+END
+ListSlices.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/ListSlices.td
+END
+Tree.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/Tree.td
+END
+ListConversion.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/ListConversion.td
+END
+TargetInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/TargetInstrInfo.td
+END
+UnterminatedComment.td
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/UnterminatedComment.td
+END
+Include.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/Include.td
+END
+TreeNames.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/TreeNames.td
+END
+Include.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/Include.inc
+END
+SuperSubclassSameName.td
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/SuperSubclassSameName.td
+END
+CStyleComment.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/CStyleComment.td
+END
+2003-08-03-PassCode.td
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/TableGen/2003-08-03-PassCode.td
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate
+END
+2002-07-09-DominanceProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/2002-07-09-DominanceProblem.ll
+END
+looptest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/looptest.ll
+END
+subtest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/subtest.ll
+END
+2002-05-15-MissedTree.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/2002-05-15-MissedTree.ll
+END
+2002-05-15-AgressiveSubMove.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/2002-05-15-AgressiveSubMove.ll
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/basictest.ll
+END
+2002-05-15-SubReassociate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/2002-05-15-SubReassociate.ll
+END
+basictest2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/basictest2.ll
+END
+otherops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/otherops.ll
+END
+2002-05-15-SubReassociate2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/2002-05-15-SubReassociate2.ll
+END
+2003-08-12-InfiniteLoop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Transforms/Reassociate/2003-08-12-InfiniteLoop.ll
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg
+END
+item.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/item.c
+END
+symtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/symtab.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/string.c
+END
+rule.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/rule.c
+END
+burs.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/burs.c
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/LICENSE.TXT
+END
+nonterminal.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/nonterminal.c
+END
+be.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/be.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/COPYRIGHT
+END
+LOG_CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/LOG_CHANGES
+END
+fe.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/fe.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/Makefile
+END
+fe.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/fe.h
+END
+plank.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/plank.c
+END
+sample.gr
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/sample.gr
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/list.c
+END
+trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/trim.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/README
+END
+closure.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/closure.c
+END
+pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/pattern.c
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/map.c
+END
+gram.yc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/gram.yc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/main.c
+END
+zalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/zalloc.c
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/queue.c
+END
+b.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/b.h
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/table.c
+END
+lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/lex.c
+END
+burg.shar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/burg.shar.gz
+END
+delta.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/delta.c
+END
+operator.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/utils/Burg/operator.c
+END

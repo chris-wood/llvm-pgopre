@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar
+END
+LoopUnswitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/LoopUnswitch.cpp
+END
+IndVarSimplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/IndVarSimplify.cpp
+END
+LowerGC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/LowerGC.cpp
+END
+Reassociate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/Reassociate.cpp
+END
+DecomposeMultiDimRefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/DecomposeMultiDimRefs.cpp
+END
+DeadStoreElimination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/DeadStoreElimination.cpp
+END
+LoopUnroll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/LoopUnroll.cpp
+END
+SymbolStripping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/SymbolStripping.cpp
+END
+CorrelatedExprs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/CorrelatedExprs.cpp
+END
+InstructionCombining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/InstructionCombining.cpp
+END
+PiNodeInsertion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/PiNodeInsertion.cpp
+END
+SimplifyCFG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/SimplifyCFG.cpp
+END
+TailRecursionElimination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/TailRecursionElimination.cpp
+END
+GCSE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/GCSE.cpp
+END
+ScalarReplAggregates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/ScalarReplAggregates.cpp
+END
+LICM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/LICM.cpp
+END
+LowerConstantExprs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/LowerConstantExprs.cpp
+END
+BasicBlockPlacement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/BasicBlockPlacement.cpp
+END
+TailDuplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/TailDuplication.cpp
+END
+PRE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/PRE.cpp
+END
+SCCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/SCCP.cpp
+END
+ConstantProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/ConstantProp.cpp
+END
+DCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/DCE.cpp
+END
+ADCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/ADCE.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/lib/Transforms/Scalar/Makefile
+END

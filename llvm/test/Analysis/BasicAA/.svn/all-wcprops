@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA
+END
+2003-03-04-GEPCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-03-04-GEPCrash.ll
+END
+2003-04-22-GEPProblem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-04-22-GEPProblem.ll
+END
+gcsetest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/gcsetest.ll
+END
+2003-02-26-AccessSizeTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-02-26-AccessSizeTest.ll
+END
+2003-04-25-GEPCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-04-25-GEPCrash.ll
+END
+licmtest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/licmtest.ll
+END
+2004-07-28-MustAliasbug.llx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2004-07-28-MustAliasbug.llx
+END
+2003-11-04-SimpleCases.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-11-04-SimpleCases.ll
+END
+2003-07-03-BasicAACrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-07-03-BasicAACrash.ll
+END
+featuretest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/featuretest.ll
+END
+2003-09-19-LocalArgument.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-09-19-LocalArgument.ll
+END
+2003-06-01-AliasCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-06-01-AliasCrash.ll
+END
+2003-05-21-GEP-Problem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-05-21-GEP-Problem.ll
+END
+2003-12-11-ConstExprGEP.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2003-12-11-ConstExprGEP.ll
+END
+2004-01-29-InvariantMemory.llx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/test/Analysis/BasicAA/2004-01-29-InvariantMemory.llx
+END

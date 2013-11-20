@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db
+END
+CLIDebugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db/CLIDebugger.h
+END
+Commands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db/Commands.cpp
+END
+CLICommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db/CLICommand.h
+END
+CLIDebugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db/CLIDebugger.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db/Makefile
+END
+llvm-db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/15724/llvm/tags/RELEASE_13/tools/llvm-db/llvm-db.cpp
+END
